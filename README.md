@@ -109,6 +109,5 @@ Plantie_AI/
 
 ## 📌 Ghi chú
 
-- Đảm bảo tồn tại `plant_disease_best_model.h5` và `class_indices.json` trước khi chạy dự đoán.
+- Đảm bảo rằng `plant_disease_best_model.h5` và `class_indices.json` tồn tại trước khi chạy dự đoán.
 - Kết quả phụ thuộc chất lượng ảnh đầu vào (nên chụp rõ nét, đủ sáng, cận cảnh lá/cây).
-
